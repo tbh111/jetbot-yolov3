@@ -1,5 +1,5 @@
 # Jetbot-yolov3-tiny
-Based on the project TRT-yolov3:![](https://github.com/yqlbu/TRT-yolov3), Yahboom Jetbot(Jetson Nano), yolov3-tiny, use aruco code and some pictures to simuilate AGV in factory/warehouse scene.
+This project is based on project [TRT-yolov3](https://github.com/yqlbu/TRT-yolov3), Yahboom Jetbot(Jetson Nano), yolov3-tiny, use aruco code and some pictures to simuilate AGV in factory/warehouse scene.
 
 ## TRT-yolov3
 
